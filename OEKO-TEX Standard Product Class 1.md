@@ -3,9 +3,7 @@
 
 Key tests conducted for OEKO-TEX® STANDARD 100 – Product Class I certification:&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://www.oeko-tex.com\&sz=32)
-
-OEKO-TEX
+**OEKO-TEX**
 
 1. Formaldehyde testing
 2. Azo dyes and banned aromatic amines testing
@@ -26,7 +24,4 @@ OEKO-TEX
 17. Extractable heavy metals testing
 18. Other regulated and potentially harmful chemical substances screening
 
-Note: The applicable tests depend on the product materials and components. Product Class I has the strictest requirements and is intended for products for babies and children up to three years old.
-[image](https://www.google.com/s2/favicons?domain=https://www.oeko-tex.com\&sz=32)
-
-OEKO-TEX
+Note: The applicable tests depend on the product materials and components. Product Class I has the strictest requirements and is **intended for products for babies and children up to three years old**.
